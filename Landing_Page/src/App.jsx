@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState,useEffect } from 'react'
 import Background from './Components/Background/Background';
 import Navbar from './Components/Navbar/Navbar';
 import Hero from './Components/Hero/Hero';
@@ -11,7 +11,16 @@ const App = () => {
     {text1:"Give in to",text2:"Your passions"},
   ]
 
-  const [heroCount,setheroCount] =useState(2);
+  const [heroCount,setheroCount] =useState(0);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setheroCount(prevCount => (prevCount + 1) % heroData.length);
+    }, 2000);
+
+    return () => clearInterval(interval);
+  }, []);
+  
   const [playStatus,setPlayStatus] = useState(false);
 
   return (
