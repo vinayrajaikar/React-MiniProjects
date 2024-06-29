@@ -16,7 +16,8 @@ This is a Todo application built with React using Context API. The app provides 
 
 ## Resources Used
 
-- I have done this project by following a youtube tutorial: [Chai aur React ]([https://www.youtube.com/watch?v=your-tutorial-link](https://www.youtube.com/watch?v=6KQeopPE36I))
+- I have done this project by following a YouTube tutorial: [Chai aur React](https://www.youtube.com/watch?v=6KQeopPE36I)
+
 
 ## Follow me:
 - [Twitter](https://twitter.com/yourusername)
