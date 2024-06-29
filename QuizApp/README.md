@@ -1,8 +1,23 @@
-# React + Vite
+# Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a Quiz application built with React. The app provides an engaging way to test your knowledge with a variety of questions, instant feedback, and score tracking.
 
-Currently, two official plugins are available:
+## Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Variety of Questions:** Engage with diverse questions.
+2. **Real-time Feedback:** Receive instant feedback on your answers.
+3. **Score Tracking:** Keep track of your progress and scores.
+
+## Technologies Used:
+
+- React (via Vite)
+- Tailwind CSS
+
+## Resources Used:
+
+- I have done this project by following a YouTube tutorial: [Chai aur React](https://www.youtube.com/watch?v=6KQeopPE36I)
+
+## Follow me:
+
+- [Twitter]([https://twitter.com/yourusername](https://x.com/65_vinay))
+- [LinkedIn](https://www.linkedin.com/in/vinay-rajaikar-828274305/)
