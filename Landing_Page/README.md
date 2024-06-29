@@ -8,7 +8,7 @@ This is the basic landing page for Ev-olution, built with React. The landing pag
 
 ## Resources Used
 
--  I have done this project by following a YouTube tutorial: [GreatStack](https://www.youtube.com/watch?v=6KQeopPE36I](https://www.youtube.com/watch?v=aKByHmd6unc&list=PLjwm_8O3suyMMs7kfDD-p-yIhlmEgJkDj&index=11)
+- I have done this project by following a YouTube tutorial: [GreatStack](https://www.youtube.com/watch?v=aKByHmd6unc&list=PLjwm_8O3suyMMs7kfDD-p-yIhlmEgJkDj&index=12)
 
 ## Follow me
 
