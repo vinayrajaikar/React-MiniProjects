@@ -15,9 +15,13 @@ This is a Quiz application built with React. The app provides an engaging way to
 
 ## Resources Used:
 
-- I have done this project by following a YouTube tutorial: [GreatStack](https://www.youtube.com/watch?v=VMZ7lcSdVnY&list=PLjwm_8O3suyMMs7kfDD-p-yIhlmEgJkDj&index=10)
+- I have done this project by following a YouTube tutorial: [GreatStack](https://www.youtube.com/watch?v=VMZ7lcSdVnY&list=PLjwm_8O3suyMMs7kfDD-p-yIhlmEgJkDj&index=10](https://www.youtube.com/watch?v=aKByHmd6unc&list=PLjwm_8O3suyMMs7kfDD-p-yIhlmEgJkDj&index=11)
+
+## Deployement: 
 
 ## Follow me:
 
 - [Twitter](https://x.com/65_vinay)
 - [LinkedIn](https://www.linkedin.com/in/vinay-rajaikar-828274305/)
+
+
