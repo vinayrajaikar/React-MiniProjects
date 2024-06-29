@@ -18,5 +18,7 @@ This is a Todo application built with React using Context API. The app provides 
 
 - I have done this project by following a youtube tutorial: [Chai aur React ]([https://www.youtube.com/watch?v=your-tutorial-link](https://www.youtube.com/watch?v=6KQeopPE36I))
 
-## Follow me: - [Twitter]([https://twitter.com/yourusername)]
-              - [LinkedIn]([https://www.linkedin.com/in/vinay-rajaikar-828274305/](https://x.com/65_vinay))
+## Follow me:
+- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/vinay-rajaikar-828274305/)
+
